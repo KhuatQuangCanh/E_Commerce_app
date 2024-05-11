@@ -27,13 +27,13 @@ class TCategoryTab extends StatelessWidget {
                     TImages.productImage4,
                   ],
                 ),
-                const TBrandShowcase(
-                  images: [
-                    TImages.productImage2,
-                    TImages.productImage3,
-                    TImages.productImage4,
-                  ],
-                ),
+                // const TBrandShowcase(
+                //   images: [
+                //     TImages.productImage2,
+                //     TImages.productImage3,
+                //     TImages.productImage4,
+                //   ],
+                // ),
 
                 const SizedBox(
                   height: TSizes.spaceBtwItems,

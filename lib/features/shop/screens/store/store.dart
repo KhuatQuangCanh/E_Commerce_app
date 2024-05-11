@@ -85,7 +85,8 @@ class StoreScreen extends StatelessWidget {
 
                     /// tab -- tutorial
 
-                    bottom: const TTabbar(tabs: [
+                    bottom: const TTabbar(
+                        tabs: [
                       Tab(
                         child: Text('Sports'),
                       ),
